@@ -1,7 +1,7 @@
 source "http://rubygems.org"
 
 gem "kgio"
-gem "rdoc"
+gem "json"
 gem "method_source", group: "development"
 gem "rspec-core", group: "test"
 gem "koala"
